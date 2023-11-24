@@ -12,7 +12,7 @@ This is second small project where I acquaint myself with Unreal Engine 5 and C+
 This is a small project where I acquaint myself with Unreal Engine 5. 
 * C++ syntax
 * Blueprint child classes of C++
-* UE syntax at a skrypt
+* UE syntax at a script
 * GameMode and Character classes
 
 ## The video
